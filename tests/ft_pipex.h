@@ -6,7 +6,7 @@
 /*   By: gisasa-s <gisasa-s@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/30 15:04:09 by gisasa-s          #+#    #+#             */
-/*   Updated: 2021/11/15 16:51:22 by gisasa-s         ###   ########.fr       */
+/*   Updated: 2021/11/27 19:25:15 by gisasa-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,5 +28,7 @@
 #include <sys/wait.h>
 #include <sys/stat.h>
 
-
+int		ft_strncmp(const char *s1, const char *s2, size_t n);
+char	*ft_strdup(char const *str);
+char	**ft_split(char const *s, char c);
 #endif

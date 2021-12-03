@@ -44,3 +44,30 @@ int main(int argc, char* argv[], char**envp)
 
 return (0);
 }
+
+/*
+
+  char **str;
+  
+  str = malloc(2*(sizeof(char*)));
+  
+  str[0] = malloc(5*(sizeof(char)));
+  
+  str[0][0] = 'V';
+  str[0][1] = 'i'; 
+  str[0][2] = 'v';
+  str[0][3] = 'a'; 
+  str[0][4] = '\0';
+  
+  str[1] = malloc(7*(sizeof(char)));
+  
+  str[1][0] = 'M';
+  str[1][1] = 'a'; 
+  str[1][2] = 'd';
+  str[1][3] = 'r'; 
+  str[1][4] = 'i';
+  str[1][5] = 'd';
+  str[1][6] = '\0';
+
+
+*/

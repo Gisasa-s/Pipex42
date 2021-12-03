@@ -1,0 +1,11 @@
+total 56
+1680319 drwxr-xr-x  10 gisasa-s  2019    340  3 dic 16:35 .
+     20 drwxr-xr-x  10 gisasa-s  2019    340  3 dic 16:05 ..
+1687790 -rw-r--r--   1 gisasa-s  2019      0  3 dic 16:44 5
+1683031 -rwxr-xr-x@  1 gisasa-s  2019   1477 14 oct 05:59 Makefile
+1687759 -rwxr-xr-x@  1 gisasa-s  2019     13  3 dic 16:29 infile
+1687774 -rw-r--r--   1 gisasa-s  2019      0  3 dic 17:09 outfile
+1687789 -rwxr-xr-x   1 gisasa-s  2019  13820  3 dic 16:35 pipex
+1683579 -rw-r--r--   1 gisasa-s  2019      0  3 dic 16:19 sol.c
+1683580 -rw-r--r--   1 gisasa-s  2019    171  3 dic 16:15 sol.h
+1683033 drwxr-xr-x@ 11 gisasa-s  2019    374  3 dic 16:35 srcs
